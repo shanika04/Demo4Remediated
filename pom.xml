@@ -55,7 +55,7 @@
         <dependency>
             <groupId>io.whitesource</groupId>
             <artifactId>curekit</artifactId>
-            <version>1.0.2</version>
+            <version>1.0.1</version>
         </dependency>
     </dependencies>
 
